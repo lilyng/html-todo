@@ -1,0 +1,24 @@
+/*body {background-image: url("http://cdn.thedesigninspiration.com/wp-content/uploads/2016/06/80s-Pattern-l.png");*/
+/*    background-repeat: no-repeat;*/
+/*}*/
+
+body { 
+  background: url("https://s-media-cache-ak0.pinimg.com/originals/01/d6/b6/01d6b6866e55038723919bfc5a0bf4cc.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+img {display: block;
+    margin: 0 auto;
+    border-style: solid;
+    border-color: white;
+}
+    
+h1 {text-align: center;
+    font-family: serif;
+    color: white;
+    
+    
+}
